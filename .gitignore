@@ -1,0 +1,5 @@
+API_KEY
+CLIENT_SECRET.json
+data/*
+__pycache__
+.envail
